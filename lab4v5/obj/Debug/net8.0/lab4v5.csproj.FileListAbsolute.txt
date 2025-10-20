@@ -1,0 +1,14 @@
+C:\Users\andriy\Documents\OOP-глущук\lab4v5\bin\Debug\net8.0\lab4v5.exe
+C:\Users\andriy\Documents\OOP-глущук\lab4v5\bin\Debug\net8.0\lab4v5.deps.json
+C:\Users\andriy\Documents\OOP-глущук\lab4v5\bin\Debug\net8.0\lab4v5.runtimeconfig.json
+C:\Users\andriy\Documents\OOP-глущук\lab4v5\bin\Debug\net8.0\lab4v5.dll
+C:\Users\andriy\Documents\OOP-глущук\lab4v5\bin\Debug\net8.0\lab4v5.pdb
+C:\Users\andriy\Documents\OOP-глущук\lab4v5\obj\Debug\net8.0\lab4v5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andriy\Documents\OOP-глущук\lab4v5\obj\Debug\net8.0\lab4v5.AssemblyInfoInputs.cache
+C:\Users\andriy\Documents\OOP-глущук\lab4v5\obj\Debug\net8.0\lab4v5.AssemblyInfo.cs
+C:\Users\andriy\Documents\OOP-глущук\lab4v5\obj\Debug\net8.0\lab4v5.csproj.CoreCompileInputs.cache
+C:\Users\andriy\Documents\OOP-глущук\lab4v5\obj\Debug\net8.0\lab4v5.dll
+C:\Users\andriy\Documents\OOP-глущук\lab4v5\obj\Debug\net8.0\refint\lab4v5.dll
+C:\Users\andriy\Documents\OOP-глущук\lab4v5\obj\Debug\net8.0\lab4v5.pdb
+C:\Users\andriy\Documents\OOP-глущук\lab4v5\obj\Debug\net8.0\lab4v5.genruntimeconfig.cache
+C:\Users\andriy\Documents\OOP-глущук\lab4v5\obj\Debug\net8.0\ref\lab4v5.dll
