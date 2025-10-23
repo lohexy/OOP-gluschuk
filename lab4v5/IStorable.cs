@@ -1,6 +1,5 @@
 namespace lab4v5
 {
-    // Базовий інтерфейс для зберігаємих об’єктів (книг, журналів)
     public interface IStorable
     {
         string Title { get; }
@@ -9,3 +8,4 @@ namespace lab4v5
         void ShowInfo();
     }
 }
+
